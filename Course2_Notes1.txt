@@ -1,0 +1,2 @@
+1/m*lambd/2*(np.sum(np.square(W1))+np.sum(np.square(W2))+np.sum(np.square(W3)))
+
